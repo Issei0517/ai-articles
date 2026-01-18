@@ -4,4 +4,4 @@
 
 | タイトル | 引用元 | 要約 |
 | --- | --- | --- |
-| Apple and Google Announce Partnership to Integrate Gemini 3 into Siri | [searchenginejournal.com](https://www.searchenginejournal.com) | AppleとGoogleが複数年の提携を発表し、SiriにGoogleのGemini 3アーキテクチャを統合することを明らかにした。2026年後半の完全展開を目指す。 |
+| Report: Apple and Google Partner to Integrate Gemini Into Siri | [macrumors.com](https://www.macrumors.com/2026/01/15/report-apple-google-integrate-gemini-siri/) | AppleとGoogleが複数年の提携を発表し、次期SiriにGoogleのGemini AIアーキテクチャを統合することで、より高度なパーソナルアシスタント機能を提供することを明らかにした。 |
