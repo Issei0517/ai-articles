@@ -2,6 +2,8 @@
 
 ## 日付: 2026-01-18
 
+- **[Claude CodeとAntigravityを活用した開発効率化トレンド](2026-01-18_Claude_CodeとAntigravityを活用した開発効率化トレンド.md)**: ターミナル上で動作する「Claude Code」等を活用し、Pythonスクリプトの実装やツールの自作を劇的に高速化するトレンドが個人開発者の間で広がっている。
+- **[非エンジニアによるAIを活用したWebアプリ開発事例](2026-01-18_非エンジニアによるAIを活用したWebアプリ開発事例.md)**: プログラミング未経験者がClaudeの有料プラン等を活用し、対話形式で指示を出すことで、自身のWebサイトに複雑な新機能を実装する事例が増えている。
 - **[NVIDIAが物理AI向け新モデルCosmosを発表](2026-01-18_NVIDIAが物理AI向け新モデルCosmosを発表.md)**: NVIDIAがCES 2026で物理AI向けのオープンモデル「Cosmos」を発表。ロボットや自動運転などが現実世界を理解するための基盤となる。
 - **[xAIのGrokに対し性的画像生成の停止命令](2026-01-18_xAIのGrokに対し性的画像生成の停止命令.md)**: カリフォルニア州司法長官が、xAIの「Grok」による同意のない性的画像の生成・配布を即時停止するよう命令を出した。
 
@@ -13,6 +15,7 @@
 
 ## 日付: 2026-01-16
 
+- **[Claude Codeにより10分でKindleをNotebookLMに取り込むツール自作](2026-01-16_Claude_Codeにより10分でKindleをNotebookLMに取り込むツール自作.md)**: CLI開発ツール「Claude Code」を活用し、KindleコンテンツをNotebookLM用PDFに変換するツールを短時間で自作した事例。
 - **[GoogleがGeminiにPersonal Intelligence機能を追加](2026-01-16_GoogleがGeminiにPersonal_Intelligence機能を追加.md)**: Googleは、GmailやGoogleフォトなどのユーザーデータにアクセスして回答を生成する「Personal Intelligence」機能のベータ版提供を開始した。
 - **[MetaがAIデータセンター用に原子力電力を確保](2026-01-16_MetaがAIデータセンター用に原子力電力を確保.md)**: MetaはAIデータセンターの電力需要を賄うため、約100億ドル規模の20年間にわたる原子力電力購入契約を締結した。
 - **[米国防総省がGrok AIを統合へ](2026-01-16_米国防総省がGrok_AIを統合へ.md)**: 米国国防長官は、Elon Musk率いるxAIの「Grok」を軍事ネットワークに統合する計画を発表した。
