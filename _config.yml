@@ -1,0 +1,10 @@
+title: AI記事サイト
+description: AI関連のMarkdown記事をまとめたシンプルな閲覧サイト
+lang: ja
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - .agents/
+  - skills/

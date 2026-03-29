@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI News Generator"
+  short_description: "AI関連ニュースを初心者向け記事と月次サマリーに整理する"
+  default_prompt: "AI関連ニュースを初心者向けに記事化し、対応する月次summary.mdも更新する"
